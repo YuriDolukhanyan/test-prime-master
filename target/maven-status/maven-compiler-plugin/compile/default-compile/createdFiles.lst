@@ -1,0 +1,5 @@
+com\epam\rd\autotasks\NaturalCsvParametrizedTesting.class
+com\epam\rd\autotasks\Natural.class
+com\epam\rd\autotasks\NaturalIllegalArgumentTesting.class
+com\epam\rd\autotasks\NaturalMethodSourceParametrizedTesting.class
+com\epam\rd\autotasks\NaturalRegularInputTesting.class

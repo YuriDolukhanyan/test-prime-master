@@ -1,0 +1,14 @@
+com\epam\rd\autotasks\NaturalTestingsTest.class
+com\epam\rd\autotasks\AlwaysFalseTestingsTest$AlwaysFalseIllegalArgumentTesting.class
+com\epam\rd\autotasks\AlwaysTrueTestingsTest$AlwaysTrueRegularInputTesting.class
+com\epam\rd\autotasks\AlwaysTrueTestingsTest$LazyPrimeMethodSourceParametrizedTesting.class
+com\epam\rd\autotasks\AlwaysFalseTestingsTest$AlwaysFalseRegularInputTesting.class
+com\epam\rd\autotasks\AlwaysTrueTestingsTest$AlwaysTrueIllegalArgumentTesting.class
+com\epam\rd\autotasks\AlwaysTrueTestingsTest.class
+com\epam\rd\autotasks\AlwaysTrueTestingsTest$AlwaysTrueCsvParametrizedTesting.class
+com\epam\rd\autotasks\AlwaysTrueTestingsTest$AlwaysTrue.class
+com\epam\rd\autotasks\AlwaysFalseTestingsTest.class
+com\epam\rd\autotasks\AlwaysFalseTestingsTest$AlwaysFalse.class
+com\epam\rd\autotasks\AlwaysFalseTestingsTest$AlwaysFalseCsvParametrizedTesting.class
+com\epam\rd\autotasks\AlwaysFalseTestingsTest$LazyPrimeMethodSourceParametrizedTesting.class
+com\epam\rd\autotasks\Utils.class
